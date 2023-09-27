@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Juhee's%20GitHub%20🐣&animation=twinkling&fontSize=41&fontAlignY=40&fontAlign=50&height=220)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Juhee's%20GitHub%20🐣&animation=twinkling&fontSize=43&fontAlignY=40&fontAlign=50&height=210)
