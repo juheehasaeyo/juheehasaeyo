@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--헤더-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Juhee's%20GitHub%20🐣&animation=twinkling&fontSize=43&fontAlignY=40&fontAlign=50&height=210)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Welcome%20to%20Juhee's%20GitHub%20🐣&animation=twinkling&fontSize=43&fontAlignY=40&fontAlign=50&height=210)
 <!--글씨-->
 <div align="center">
     <img align="center" src="https://readme-typing-svg.demolab.com?font=Oleo+Script&size=28&pause=1000&color=3CB371&width=580&lines=Hi+there%2C+I'm+juhee!;Welcome+to+my+Github!"
