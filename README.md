@@ -3,7 +3,8 @@
 
 <!--글씨-->
 <div align="center">
-    <img align="center" src="https://readme-typing-svg.demolab.com?font=Oleo+Script&size=28&pause=1000&color=3CB371&width=580&lines=Hi+there%2C+I'm+juhee!;Welcome+to+my+Github!"
+    <img align="center" src="https://readme-typing-svg.demolab.com? 
+    font=Oleo+Script&size=28&pause=1000&color=3CB371&width=580&lines=Hi+there%2C+I'm+juhee!;Welcome+to+my+Github!"
         alt="Typing SVG" />
 </div>
 
