@@ -1,6 +1,6 @@
 ## 🙌 Welcome to Juhee's Github!
 
-🌱 Front-end Developer  
+🌱 Frontend Developer  
 
 ```
 npx juhee
