@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Frontend Developer 
 ```
-npx juhee
+npx juheeee
 ```
 
 ### ✨ Experience
