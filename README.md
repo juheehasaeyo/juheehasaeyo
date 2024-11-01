@@ -6,4 +6,4 @@ npx juhee
 ```
 
 ### ✨ Experience
-- **BIGC** Frontend Developer (2024. 09 ~ 현재)
+- **BIGC** Frontend Developer Intern (2024. 09 ~ NOW)
