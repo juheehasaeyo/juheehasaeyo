@@ -1,4 +1,4 @@
-## 🙌 Hi, I'm Juhee Cho!
+## 🙌 Welcome to Juhee's Github!
 
 👩🏻‍💻 Frontend Developer 
 ```
