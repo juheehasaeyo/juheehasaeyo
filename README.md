@@ -1,4 +1,4 @@
-## 🙌 Welcome to Juhee's Github!
+## 🙌 Welcome to Joohee's Github!
 
 👩🏻‍💻 Frontend Developer 
 ```
